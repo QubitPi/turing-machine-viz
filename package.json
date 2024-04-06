@@ -2,7 +2,7 @@
   "name": "turing-machine-viz",
   "version": "1.0.0",
   "description": "Turing machine visualization and simulator",
-  "homepage": "http://turingmachine.io",
+  "homepage": "https://qubitpi.github.io/turing-machine-viz",
   "license": "BSD-3-Clause",
   "author": "Andy Li <andy.srs.li@gmail.com>",
   "repository": "aepsilon/turing-machine-viz",
